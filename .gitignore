@@ -1,0 +1,4 @@
+/nbproject/private/
+/nbproject
+.phpunit.result.cache
+/vendor
